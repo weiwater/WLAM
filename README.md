@@ -8,5 +8,4 @@ These models were initially developed for the western Chino Basin in 1994 (Mark 
 
 In 2001, WEI updated the model to include water quality simulations and expanded the modeling area to the entire Santa Ana River watershed for the wasteload allocation investigation (WEI, 2002) and renamed the model the Wasteload Allocation Model (WLAM). WLAM has been improved from the version applied in 2002.
 
-[This report](WLAM 2008 Complete Report.pdf) summarizes our efforts to update, calibrate, and apply the Wasteload Allocation Model to estimate projected TDS and Nitrate-N concentrations of the Santa Ana River recharge water and discharge at Prado Dam.
-
+The report (WLAM 2008 Complete Report.pdf) summarizes our efforts to update, calibrate, and apply the Wasteload Allocation Model to estimate projected TDS and Nitrate-N concentrations of the Santa Ana River recharge water and discharge at Prado Dam.
