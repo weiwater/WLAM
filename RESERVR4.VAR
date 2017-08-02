@@ -1,0 +1,21 @@
+!!! ReservR4.VAR ======================================================
+
+      common /rv_var/ rvelev(MXRV,MXTB),
+     &                rvarea(MXRV,MXTB),rvstor(MXRV,MXTB),
+     &                rvout1(MXRV,MXTB),rvout2(MXRV,MXTB),
+     &                rvpr(MXRV,MXTB),                                  !r3
+     &                alimit(MXRV),slimit(MXRV,3),
+     &                evwts(MXRV,MXEV),
+     &                qin(MXLK),
+     &                percl(MXRV,0:MXPS),storl(MXRV,0:MXPS),
+     &                evapl(MXRV),
+     &                out1l(MXRV),out2l(MXRV),
+     &                cstorl(MXRV,4,0:MXPS),
+     &                npts(MXRV), lkatrv(MXRV),
+     &                rvname(MXRV),
+     &                rdlink(MXRV,2),
+     &                linkrv(MXRV,2)
+
+      character*40 rvname
+      character*8  rdlink
+

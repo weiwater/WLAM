@@ -1,0 +1,17 @@
+! RO_DIM_3.MAX - This file defines maximum dimension for Router model
+! for temescal basin
+! modified 5/12/14
+
+      parameter (MXHA = 500)          ! HAs                                                   450
+      parameter (MXLK = 1200)         ! links and nodes                                       700
+      parameter (MXDV = 50)           ! diversions                                            50)
+      parameter (MXRV = 100)          ! reservoirs                                            50)
+      parameter (MXIL = 20)           ! incoming links to a node                              5)
+      parameter (MXTB = 30)           ! rows for rating curve                                 30)
+      parameter (MXHN = 10)           ! HA for each node                                      15)
+      parameter (MXEV = 3)            ! number of evaporation stations                        3)
+      parameter (MXPL = 50)           ! number of links to print daily flow data              50)
+      parameter (MXCH = 300)          ! number of tables for flow and top width for channel   50)
+      parameter (MXPS = 50)           ! number of point sources                               50)
+      parameter (MXRH = 30)           ! nubmer of reaches                                     30)
+
